@@ -12,7 +12,7 @@ a {
   position: absolute;
   top: 0;
   left: 0;
-  background: url("/assets/main/hero.png");
+  background: url("../assets/main/hero.png");
   background-size: cover;
   background-position-x: 0%;
   background-position-y: 20%;
@@ -27,7 +27,7 @@ a {
   position: absolute;
   top: 0;
   left: 0;
-  background: url("/assets/main/contact.png");
+  background: url("../assets/main/contact.png");
   background-size: cover;
   background-position-x: 0%;
   background-position-y: 20%;
